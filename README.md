@@ -1,3 +1,3 @@
-# Connecting Multiple Github account on same Window using SSH Key
+# Multiple Github account on VS Code
 
-This is a simple repo that shows how to connect two different github account in same Window PC using SSH Key.
+A simple repo that demonstrate how to connect two different github account in same Window PC /VS Code using SSH Key.
